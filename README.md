@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/srijan-nayak/iraitech-assignment-2-backend.git
 cd iraitech-assignment-2-backend
+npm i
 npm run dev
 ```
 
